@@ -67,12 +67,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "s.rohatgi23@gmail.com"
+  email: "s.rohatgi23"
  
   github: "srishti-R"
  
 #  reddit: yourname
-  linkedin: "linkedin.com/in/srishti-rohatgi-04847516b"
+  linkedin: "srishti-rohatgi-04847516b"
 
 #  xing: yourname
   stackoverflow: "11584267/srishti-rohatgi"
