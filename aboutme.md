@@ -16,7 +16,8 @@ I am originally from a non-tech background and grew up intimidated by programmin
 * Git
 * SVG vector graphics through Inkscape
 </br>
-**Currently learning**
+<br/>
+**Currently learning**</br>
 * Figma for designing better UX
 * Flutter
 * Advanced Android Development
