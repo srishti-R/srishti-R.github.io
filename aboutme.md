@@ -16,10 +16,10 @@ I am originally from a non-tech background and grew up intimidated by programmin
 * Git
 * SVG vector graphics through Inkscape
 <br/>
-**Currently learning** &nbsp;
-- Figma for designing better UX 
-- Flutter
-- Advanced Android Development
-- Kotlin
+**Currently learning** <br/>
+* Figma for designing better UX 
+* Flutter
+* Advanced Android Development
+* Kotlin
 
 
