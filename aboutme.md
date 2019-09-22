@@ -9,17 +9,17 @@ I am originally from a non-tech background and grew up intimidated by programmin
 <br/>
 **My Forte**</br>
 * FireBase cloud messaging
-*Firebase
-*Java
-*Android SDKs
-*Integrating REST APIs
-*Git
-*SVG vector graphics through Inkscape
+* Firebase
+* Java
+* Android SDKs
+* Integrating REST APIs
+* Git
+* SVG vector graphics through Inkscape
 </br>
 **Currently learning**
-*Figma for designing better UX
-*Flutter
-*Advanced Android Development
-*Kotlin
+* Figma for designing better UX
+* Flutter
+* Advanced Android Development
+* Kotlin
 
 
