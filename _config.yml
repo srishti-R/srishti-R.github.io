@@ -109,7 +109,7 @@ gtag: "<!-- Global site tag (gtag.js) - Google Analytics -->
 </script>"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+ google_analytics: "UA-148430245-1"
 
 # Google Tag Manager ID
 #gtm: ""
