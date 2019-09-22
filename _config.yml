@@ -106,8 +106,7 @@ gtag: "<!-- Global site tag (gtag.js) - Google Analytics -->
   gtag('js', new Date());
 
   gtag('config', 'UA-148430245-1');
-</script>
-"
+</script>"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
