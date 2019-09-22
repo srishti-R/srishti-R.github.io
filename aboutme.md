@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Here's something about me..
+subtitle: Here's something piquant about me..
 ---
 
 **Hi. I am _Srishti_.** <br/>
