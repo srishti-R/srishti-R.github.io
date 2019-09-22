@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: What makes me awesome..
+subtitle: Here's something about me..
 ---
 
 **Hi. I am _Srishti_.** <br/>
@@ -14,9 +14,9 @@ I am originally from a non-tech background and grew up intimidated by programmin
 * Android SDKs
 * Integrating REST APIs
 * Git
-* SVG vector graphics through Inkscape
+* SVG vector graphics through Inkscape<br/>
 <br/>
-<br/>
+
 **Currently learning** <br/>
 * Figma for designing better UX 
 * Flutter
