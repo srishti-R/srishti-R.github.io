@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Animate it a bit
 subtitle: ...or more, 'coz who doesn't love them
 tags: [ animations, android, java ] 
