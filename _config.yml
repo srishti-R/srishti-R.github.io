@@ -21,7 +21,7 @@ description: Welcome to my nest.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Portfolio: "Portfolio"
+  Portfolio: "portfolio"
    
  
 
