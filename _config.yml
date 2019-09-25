@@ -22,7 +22,7 @@ description: Welcome to my nest.
 navbar-links:
   About Me: "aboutme"
   Portfolio: "portfolio"
-  Hobbies-:relaxed:: "hobbies"
+  Hobbies: "hobbies"
    
  
 
