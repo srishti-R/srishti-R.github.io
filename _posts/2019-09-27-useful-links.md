@@ -14,3 +14,4 @@ will be no doubt stackoverflow links or medium articles. <br/>
 (TL;DR for the above post--> ViewModelProviders is a class that with its _of(Context, Factory)_ method creates and returns a ViewModelProvider which stores ViewModels in Hashmaps associated with their activity/fragment and returns a ViewModel if and when an instance is created, otherwise creates and returns a new ViewModel through _get(ModelClass)_ method.)
 * Need to implement ViewModelProvider.Factory class: <https://medium.com/google-developer-experts/add-the-new-viewmodel-to-your-mvvm-36bfea86b159> <br/>
 (TL;DR for the post--> In case you want to create a ViewModel that takes in an argument, implement ViewModelProvider.Factory and inject its instance in _of_ method.)
+* Default android layouts--> <https://github.com/aosp-mirror/platform_frameworks_base/tree/master/core/res/res/layout>
