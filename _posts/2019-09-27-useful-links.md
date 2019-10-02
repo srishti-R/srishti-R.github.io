@@ -15,3 +15,4 @@ will be no doubt stackoverflow links or medium articles. <br/>
 * Need to implement ViewModelProvider.Factory class: <https://medium.com/google-developer-experts/add-the-new-viewmodel-to-your-mvvm-36bfea86b159> <br/>
 (TL;DR for the post--> In case you want to create a ViewModel that takes in an argument, implement ViewModelProvider.Factory and inject its instance in _of_ method.)
 * Default android layouts--> <https://github.com/aosp-mirror/platform_frameworks_base/tree/master/core/res/res/layout>
+* Best kotlin resource: <https://books.google.co.in/books/about/Android_Development_with_Kotlin.html?id=PJZGDwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false>
