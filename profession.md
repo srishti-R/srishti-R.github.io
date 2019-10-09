@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Projects I've worked on professionally..
 ---
 ## Tiyas: 
