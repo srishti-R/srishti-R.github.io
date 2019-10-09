@@ -22,7 +22,8 @@ description: Welcome to my nest.
 navbar-links:
   About Me: "aboutme"
   Portfolio: "portfolio"
-   -"profession"
+   -Apps Part 1: "profession"
+   -Apps Part 2: "personal"
   Hobbies: "hobbies"
    
  
