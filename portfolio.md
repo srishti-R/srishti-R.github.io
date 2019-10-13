@@ -17,6 +17,6 @@ App that shows daily news fetching data from _The Guardian_ API, you can click o
 <img src="/img/ezgif.com-video-to-gif(2).gif"  height="30%" width="30%"/>
 
 ### Retrofit+Picasso:
-I made this project just for the purpose of learning retrofit, using NASA open API called APOD which displays a picture captured by NASA for each day. Since retrofit returns a url I used Picasso library to load images. In this app, you can select the day to see that day's picture. Detailed code [here.]("https://github.com/srishti-R/Retrofit_example") <br/>
+I made this project just for the purpose of learning retrofit, I dynamically queried NASA open API called APOD to display a picture captured by NASA for each day selected from a date-picker. Since retrofit returns a url I used Picasso library to load images. In this app, you can select the day to see that day's picture. Detailed code [here.]("https://github.com/srishti-R/Retrofit_example") <br/>
 <img src="/img/ezgif.com-crop(4).gif"  height="30%" width="30%"/><img src="/img/ezgif.com-crop(3).gif"  height="30%" width="30%"/>
 
