@@ -9,11 +9,14 @@ Worked with an NGO for developing an app that could send SMS to multiple people 
 so if you are willing to look at the code, e-mail me I'll add you as a collaborator.
 **Uses**: Android Architecture components- Room, LiveData and ViewModels.<br/>
 <img src="/img/ezgif.com-video-to-gif.gif"  height="30%" width="30%"/><img src="/img/ezgif.com-video-to-gif(1).gif"  height="30%" width="30%"/><img src="/img/ezgif.com-crop(2).gif"  height="30%" width="30%"/> 
+
+
 ### Mekvahan:
-Worked for a startup called Mekvahan based in delhi. Helped in developing, debugging and publishing the app on playstore. Link for the app: "https://play.google.com/store/apps/details?id=com.myapp.mekvahan&hl=el"
-Currently working on app which will be soon published.
+Worked for a startup called Mekvahan based in delhi. Helped in developing, debugging and publishing the app on playstore. Link for the app: [https://play.google.com/store/apps/details?id=com.myapp.mekvahan&hl=el] <br/>
+Currently working on app which will be soon published.<br/>
 **Uses**: This app uses MVVM, integrating wide range of APIs, using google maps, Custom views, UI-driven development, QR 
 code scanners.
+
 
 ## Apps that I've made personally (for fun) including the logos.
 ### NewsApp:
