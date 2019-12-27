@@ -12,7 +12,7 @@ so if you are willing to look at the code, e-mail me I'll add you as a collabora
 
 
 ### Mekvahan:
-Worked for a startup called Mekvahan based in delhi. Helped in developing, debugging and publishing the app on playstore. Link for the app: [https://play.google.com/store/apps/details?id=com.myapp.mekvahan&hl=el] <br/>
+Worked for a startup called Mekvahan based in delhi. Helped in developing, debugging and publishing the app on playstore. Link for the app: <https://play.google.com/store/apps/details?id=com.myapp.mekvahan&hl=el> <br/>
 Currently working on app which will be soon published.<br/>
 **Uses**: This app uses MVVM, integrating wide range of APIs, using google maps, Custom views, UI-driven development, QR 
 code scanners.
