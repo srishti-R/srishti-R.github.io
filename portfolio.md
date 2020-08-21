@@ -18,7 +18,7 @@ Currently working on app which will be soon published.<br/>
 code scanners.
 
 ### Iotech Designs Pvt. Ltd.:
-Worked for a startup to build app that communicate with IoT devices through BLE.<br/> Link: <https://play.google.com/store/apps/details?id=com.smartaccess.smartdoor> <br/>
+Worked for a startup to build apps that communicate with IoT devices through BLE.<br/> Link: <https://play.google.com/store/apps/details?id=com.smartaccess.smartdoor> <br/>
 <https://play.google.com/store/apps/details?id=com.nu2systems.ilda>
 
 
