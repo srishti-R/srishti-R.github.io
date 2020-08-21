@@ -17,6 +17,10 @@ Currently working on app which will be soon published.<br/>
 **Uses**: This app uses MVVM, integrating wide range of APIs, using google maps, Custom views, UI-driven development, QR 
 code scanners.
 
+### Iotech Designs Pvt. Ltd.:
+Worked for a startup to build app that communicate with IoT devices through BLE.<br/> Link: <https://play.google.com/store/apps/details?id=com.smartaccess.smartdoor> <br/>
+<https://play.google.com/store/apps/details?id=com.nu2systems.ilda>
+
 
 ## Apps that I've made personally (for fun) including the logos.
 ### NewsApp:
@@ -26,4 +30,8 @@ App that shows daily news fetching data from _The Guardian_ API, you can click o
 ### Retrofit+Picasso:
 I made this project just for the purpose of learning retrofit, I dynamically queried NASA open API called APOD to display a picture captured by NASA for each day selected from a date-picker. Since retrofit returns a url I used Picasso library to load images. In this app, you can select the day to see that day's picture. Detailed code [here.]("https://github.com/srishti-R/Retrofit_example") <br/>
 <img src="/img/ezgif.com-crop(4).gif"  height="30%" width="30%"/><img src="/img/ezgif.com-crop(3).gif"  height="30%" width="30%"/>
+
+### TellTale
+
+### TextToSpeech
 
